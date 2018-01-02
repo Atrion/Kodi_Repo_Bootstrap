@@ -3,9 +3,9 @@ Bootstrap GIT repo for setting up a Kodi repository
 
 Requires Python
 
-Clone Repo
-Place Addons (unzipped) in root directory
-Enter _tools Directory
-Edit config.ini with your Repo Information
-Run the generate_repo Python script
-Generated addons will be in the _repo folder
+Clone Repo <br>
+Place Addons (unzipped) in root directory <br>
+Enter _tools Directory <br>
+Edit config.ini with your Repo Information <br>
+Run the generate_repo Python script <br>
+Generated addons will be in the _repo folder <br>
